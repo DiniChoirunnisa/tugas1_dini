@@ -1,0 +1,1 @@
+menghitung faktorial angka 7. dilakukan dengan mengkalikan angka 1 sampai angka 7. 1x2x3x4x5x6x7 hingga hasilnya adalah 5040. atau bisa dengan sebaliknya, jika dijabarkan bisa dengan menghitung faktorial 7= 7 x (7-1) x (7-2) x (7-3) x (7-4) x (7-5) x (7-6) hingga hasilnya akan sama yaitu 5040
